@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(blue, 2%, pink);
+    }
+h1{
+  color: #3F0071;
+}
+h3{
+  color: #3F0071;
+}
+hr{
+ border-style: none;
+ border-top-style: dotted;
+ border-color: pink;
+ border-width: 5px;
+ width: 5%;
+}
